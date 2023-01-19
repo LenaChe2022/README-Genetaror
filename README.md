@@ -23,6 +23,8 @@ The application will be invoked by using the following command in the Command li
 ## Usage
 
 Input the information about your application repository by answering the questions in Command line. Then high-quality, professional README.md is generated.
+Link to a demo video:
+https://drive.google.com/file/d/1onAts6-5dH1h_-BH6ofW6hQ8Ft3eNNTd/view
 
 ## Credits
 
